@@ -1,0 +1,48 @@
+2019-11-27 11:02:57,824 - [test_register_login.py-->line:34] - INFO: 用例：正常登录--》执行通过
+2019-11-27 11:02:57,892 - [test_register_login.py-->line:34] - INFO: 用例：密码错误--》执行通过
+2019-11-27 11:02:57,937 - [test_register_login.py-->line:34] - INFO: 用例：账户名错误--》执行通过
+2019-11-27 11:02:58,029 - [test_register_login.py-->line:30] - INFO: 用例：账号为空--》执行未通过
+2019-11-27 11:02:58,030 - [test_register_login.py-->line:31] - ERROR: {'code': 1, 'msg': '所有的参数不能为空'} != {'code': 1, 'mgs': '所有的参数不能为空'}
+- {'code': 1, 'msg': '所有的参数不能为空'}
+?                -
+
++ {'code': 1, 'mgs': '所有的参数不能为空'}
+?               +
+
+2019-11-27 11:02:58,524 - [test_register_login.py-->line:30] - INFO: 用例：密码为空--》执行未通过
+2019-11-27 11:02:58,525 - [test_register_login.py-->line:31] - ERROR: {'code': 1, 'msg': '所有的参数不能为空'} != {'code': 1, 'mgs': '所有的参数不能为空'}
+- {'code': 1, 'msg': '所有的参数不能为空'}
+?                -
+
++ {'code': 1, 'mgs': '所有的参数不能为空'}
+?               +
+
+2019-11-27 11:02:58,525 - [test_register_login.py-->line:62] - INFO: 用例：正常注册--》执行通过
+2019-11-27 11:02:58,581 - [test_register_login.py-->line:62] - INFO: 用例：两次密码不一致--》执行通过
+2019-11-27 11:02:58,628 - [test_register_login.py-->line:62] - INFO: 用例：账号已存在--》执行通过
+2019-11-27 11:02:58,679 - [test_register_login.py-->line:62] - INFO: 用例：密码少于6位--》执行通过
+2019-11-27 11:02:58,737 - [test_register_login.py-->line:62] - INFO: 用例：密码大于18位--》执行通过
+2019-11-27 11:02:58,792 - [test_register_login.py-->line:62] - INFO: 用例：账号少于6位--》执行通过
+2019-11-27 11:02:58,891 - [test_register_login.py-->line:58] - INFO: 用例：账号大于18位--》执行未通过
+2019-11-27 11:02:58,891 - [test_register_login.py-->line:59] - ERROR: {'code': 0, 'msg': '账号和密码必须在6-18位之间'} != {'code': 1, 'msg': '注册成功'}
+- {'code': 0, 'msg': '账号和密码必须在6-18位之间'}
++ {'code': 1, 'msg': '注册成功'}
+2019-11-27 11:02:58,891 - [test_register_login.py-->line:62] - INFO: 用例：账号为空--》执行通过
+2019-11-27 11:02:58,945 - [test_register_login.py-->line:62] - INFO: 用例：密码为空--》执行通过
+2019-11-27 11:03:58,777 - [test_register_login.py-->line:34] - INFO: 用例：正常登录--》执行通过
+2019-11-27 11:03:58,823 - [test_register_login.py-->line:34] - INFO: 用例：密码错误--》执行通过
+2019-11-27 11:03:58,861 - [test_register_login.py-->line:34] - INFO: 用例：账户名错误--》执行通过
+2019-11-27 11:03:58,941 - [test_register_login.py-->line:30] - INFO: 用例：账号为空--》执行未通过
+2019-11-27 11:03:58,941 - [test_register_login.py-->line:31] - ERROR:  :: {'code': 1, 'msg': '所有的参数不能为空'} != {'code': 1, 'mgs': '所有的参数不能为空'}
+2019-11-27 11:03:58,994 - [test_register_login.py-->line:30] - INFO: 用例：密码为空--》执行未通过
+2019-11-27 11:03:58,994 - [test_register_login.py-->line:31] - ERROR:  :: {'code': 1, 'msg': '所有的参数不能为空'} != {'code': 1, 'mgs': '所有的参数不能为空'}
+2019-11-27 11:03:58,996 - [test_register_login.py-->line:62] - INFO: 用例：正常注册--》执行通过
+2019-11-27 11:03:59,034 - [test_register_login.py-->line:62] - INFO: 用例：两次密码不一致--》执行通过
+2019-11-27 11:03:59,260 - [test_register_login.py-->line:62] - INFO: 用例：账号已存在--》执行通过
+2019-11-27 11:03:59,301 - [test_register_login.py-->line:62] - INFO: 用例：密码少于6位--》执行通过
+2019-11-27 11:03:59,344 - [test_register_login.py-->line:62] - INFO: 用例：密码大于18位--》执行通过
+2019-11-27 11:03:59,397 - [test_register_login.py-->line:62] - INFO: 用例：账号少于6位--》执行通过
+2019-11-27 11:03:59,504 - [test_register_login.py-->line:58] - INFO: 用例：账号大于18位--》执行未通过
+2019-11-27 11:03:59,504 - [test_register_login.py-->line:59] - ERROR:  :: {'code': 0, 'msg': '账号和密码必须在6-18位之间'} != {'code': 1, 'msg': '注册成功'}
+2019-11-27 11:03:59,505 - [test_register_login.py-->line:62] - INFO: 用例：账号为空--》执行通过
+2019-11-27 11:03:59,553 - [test_register_login.py-->line:62] - INFO: 用例：密码为空--》执行通过
