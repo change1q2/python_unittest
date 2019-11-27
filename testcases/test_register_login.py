@@ -27,6 +27,7 @@ class LoginTestCase(unittest.TestCase):
         except AssertionError as e:
             # 用例执行未通过
             self.excel.write_data(row=case_id + 1, column=5, value="未通过")
+            #日志的使用
             my_log.info("用例：{}--》执行未通过".format(case["title"]))
             my_log.error(e)
             raise e
