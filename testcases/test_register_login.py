@@ -1,15 +1,16 @@
+import os
 import unittest
-
+from common.contants import DATA_DIR
 from login_register.login import login_check
 from login_register.register import register
 from common.readexcel import ReadExcel
 from library.ddt import ddt, data
 from common.mylogger import my_log
-
+file_path = os.path.join(DATA_DIR,"cases.xlsx")#引入os模块，解决路径问题
 # 定义登录的测试用例类
 @ddt  # @ddt 做的事情等同于这句代码==> LoginTestCase = ddt(LoginTestCase)
 class LoginTestCase(unittest.TestCase):
-    excel = ReadExcel(r"E:\py24_unittest\data\cases.xlsx", "login")
+    excel = ReadExcel(file_path, "login")
     cases = excel.read_data()
 
     @data(*cases)
@@ -37,7 +38,7 @@ class LoginTestCase(unittest.TestCase):
 
 @ddt
 class RegisterTestCase(unittest.TestCase):
-    excel = ReadExcel(r"E:\py24_unittest\data\cases.xlsx", "register")
+    excel = ReadExcel(file_path, "register")
     cases = excel.read_data()
 
     @data(*cases)

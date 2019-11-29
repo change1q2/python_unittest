@@ -9,6 +9,17 @@
 要把一个一般函数放在类里面一般使用静态方法
 """
 import logging
+import os
+from common.myconfig import conf
+from common.contants import LOG_DIR
+
+# 读取配置文件中的数据
+level = conf.get_str("logging", "level")
+f_level = conf.get_str("logging", "f_level")
+s_level = conf.get_str("logging", "s_level")
+filename = conf.get_str("logging", "filename")
+# 获取日志文件的绝对路径
+file_path = os.path.join(LOG_DIR,filename)
 
 class MyLogger(object):
 
@@ -29,7 +40,7 @@ class MyLogger(object):
             my_log.addHandler(sh)
 
             # 四、添加输出渠道（输出到文件）
-            fh = logging.FileHandler(r"E:\py24_unittest\log\test.log", encoding="utf8")
+            fh = logging.FileHandler(file_path, encoding="utf8")
             fh.setLevel("DEBUG")
             my_log.addHandler(fh)
 
