@@ -2,29 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="666f8f2b-3ee9-4c73-85ce-48fe67bf0aea" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/apicases.xlsx" afterDir="false" />
 <<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/common/myconfig.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/other/一个测试文本" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testcases/test_register_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_register_login.py" afterDir="false" />
 =======
-      <change afterPath="$PROJECT_DIR$/common/contants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/myconfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/other/补充知识点继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/上课代码/02配置文件的封装.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/mylogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/mylogger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/conf.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/conf.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cases.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/cases.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_register_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_register_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/上课代码/conf.ini" beforeDir="false" afterPath="$PROJECT_DIR$/上课代码/conf.ini" afterDir="false" />
->>>>>>> company
-=======
-      <change afterPath="$PROJECT_DIR$/data/apicases.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/other/jsonpath用法.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/other/文件常常方法.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/上课代码/2019-12-01request_jspon/03request请求和提取数据.py" afterDir="false" />
@@ -56,7 +40,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
 <<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/上课代码/01配置文件的操作.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,12 +96,6 @@
             <state>
               <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
 =======
-        <entry file="file://$PROJECT_DIR$/common/contants.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" selection-end-column="7" />
->>>>>>> company
-=======
         <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/04使用jsonpath用来获取数据.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="849">
@@ -137,25 +114,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/06cookie和session鉴权接口处理方式.py">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="57">
 <<<<<<< HEAD
               <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
 =======
-              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/06cookie和session鉴权接口处理方式.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="969">
               <caret line="51" selection-start-line="51" selection-end-line="51" />
->>>>>>> company
             </state>
           </provider>
         </entry>
@@ -172,23 +138,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/other/文件常常方法.py">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="209">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcases/test_register_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
->>>>>>> company
-=======
             <state relative-caret-position="304">
               <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="75" />
 >>>>>>> company
@@ -229,16 +178,11 @@
         <option value="$PROJECT_DIR$/common/contants.py" />
         <option value="$PROJECT_DIR$/common/mylogger.py" />
         <option value="$PROJECT_DIR$/testcases/test_register_login.py" />
-<<<<<<< HEAD
->>>>>>> company
-=======
-        <option value="$PROJECT_DIR$/上课代码/03request请求返回数据提取.py" />
         <option value="$PROJECT_DIR$/上课代码/04使用jsonpath用来获取数据.py" />
         <option value="$PROJECT_DIR$/上课代码/05json_test.py" />
         <option value="$PROJECT_DIR$/上课代码/cookie和session鉴权接口处理方式.py" />
         <option value="$PROJECT_DIR$/other/文件常常方法.py" />
         <option value="$PROJECT_DIR$/上课代码/2019-12-01request_jspon/07handle_request封装.py" />
->>>>>>> company
       </list>
     </option>
   </component>
@@ -266,59 +210,16 @@
               <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
               <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
-              <item name="library" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
-              <item name="login_register" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
               <item name="other" type="462c0819:PsiDirectoryNode" />
 =======
-              <item name="report" type="462c0819:PsiDirectoryNode" />
 >>>>>>> company
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
               <item name="report" type="462c0819:PsiDirectoryNode" />
 =======
-              <item name="testcases" type="462c0819:PsiDirectoryNode" />
 >>>>>>> company
-            </path>
-            <path>
-              <item name="py24_unittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="py24_unittest" type="462c0819:PsiDirectoryNode" />
 <<<<<<< HEAD
               <item name="testcases" type="462c0819:PsiDirectoryNode" />
 =======
-=======
->>>>>>> company
               <item name="上课代码" type="462c0819:PsiDirectoryNode" />
 >>>>>>> company
             </path>
@@ -331,11 +232,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
 <<<<<<< HEAD
-<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
-=======
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> company
 =======
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
 >>>>>>> company
@@ -343,22 +240,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-<<<<<<< HEAD
-      <recent name="E:\py24_unittest\common" />
-      <recent name="E:\py24_unittest\上课代码" />
-      <recent name="E:\py24_unittest\conf" />
-      <recent name="E:\py24_unittest\testcases" />
-      <recent name="E:\py24_unittest\report" />
-=======
       <recent name="E:\py24_unittest\data" />
-      <recent name="E:\py24_unittest\other" />
       <recent name="E:\py24_unittest\上课代码" />
       <recent name="E:\py24_unittest\conf" />
       <recent name="E:\py24_unittest\testcases" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\py24_unittest\上课代码\2019-12-01request_jspon" />
->>>>>>> company
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,16 +262,11 @@
     </option>
   </component>
 <<<<<<< HEAD
-<<<<<<< HEAD
   <component name="RunManager" selected="Python tests.Unittests for test_register_login.LoginTestCase.test_login">
 =======
-  <component name="RunManager" selected="Python.run_test">
->>>>>>> company
-    <configuration name="01配置文件的操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
   <component name="RunManager" selected="Python.文件常常方法">
-    <configuration name="文件常常方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> company
+    <configuration name="文件常常方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py24_unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -506,22 +389,12 @@
     <recent_temporary>
       <list>
 <<<<<<< HEAD
-<<<<<<< HEAD
         <item itemvalue="Python tests.Unittests for test_register_login.LoginTestCase.test_login" />
         <item itemvalue="Python.01配置文件的操作" />
         <item itemvalue="Python tests.Unittests in test_register_login.py" />
-        <item itemvalue="Python.run_test" />
-        <item itemvalue="Python tests.Unittests for test_register_login.RegisterTestCase.test_register" />
-=======
-        <item itemvalue="Python.run_test" />
-        <item itemvalue="Python.contants" />
-        <item itemvalue="Python.02配置文件的封装" />
-        <item itemvalue="Python.01配置文件的操作" />
-        <item itemvalue="Python tests.Unittests in test_register_login.py" />
->>>>>>> company
-=======
         <item itemvalue="Python.文件常常方法" />
-        <item itemvalue="Python.cookie和session鉴权接口处理方式" />
+=======
+        <item itemvalue="Python.run_test" />
         <item itemvalue="Python.05json_test" />
         <item itemvalue="Python.04使用jsonpath用来获取数据" />
         <item itemvalue="Python.03request请求返回数据提取" />
@@ -570,11 +443,7 @@
     <editor active="true" />
     <layout>
 <<<<<<< HEAD
-<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24978541" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249226" />
->>>>>>> company
 =======
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22054794" />
 >>>>>>> company
@@ -583,13 +452,8 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295964" />
 <<<<<<< HEAD
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32996634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910313" />
-=======
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32884398" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39842874" />
->>>>>>> company
 =======
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
@@ -672,13 +536,9 @@
       </provider>
     </entry>
 <<<<<<< HEAD
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/common/mylogger.py">
 =======
-    <entry file="file://$PROJECT_DIR$/上课代码/conf.ini">
-=======
     <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/conf.ini">
->>>>>>> company
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
@@ -788,16 +648,11 @@
     <entry file="file://$PROJECT_DIR$/report/report.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
-<<<<<<< HEAD
         <state relative-caret-position="57">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
 =======
-        <state relative-caret-position="244">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-=======
         <state relative-caret-position="57">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
->>>>>>> company
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -817,7 +672,16 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
+        <state relative-caret-position="174">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/jsonpath用法.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/文件常常方法.py">
+      <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state relative-caret-position="149">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -849,36 +713,6 @@
         <state relative-caret-position="475">
           <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
 =======
-        <state relative-caret-position="57">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
->>>>>>> company
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#a#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-<<<<<<< HEAD
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/一个测试文本">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
-=======
->>>>>>> company
-=======
-        <state relative-caret-position="174">
-          <caret line="115" selection-start-line="115" selection-end-line="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/jsonpath用法.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/other/文件常常方法.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="75" />
         </state>
@@ -888,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="849">
           <caret line="84" column="36" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/05json_test.py">
@@ -897,7 +730,6 @@
           <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/06cookie和session鉴权接口处理方式.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -905,17 +737,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/07handle_request封装.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="502">
           <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/上课代码/2019-12-01request_jspon/03request请求和提取数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+=======
 >>>>>>> company
         </state>
       </provider>
